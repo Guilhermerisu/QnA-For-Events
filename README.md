@@ -1,23 +1,13 @@
-<div align="center">
-  <img src="https://github.com/Guilhermerisu/Letmeask/blob/main/src/assets/logo.svg" alt="Letmeask logo">
-</div>
 
   <img src="https://github.com/Guilhermerisu/Letmeask/blob/main/src/assets/PreviewGif1.gif">
   <img src="https://github.com/Guilhermerisu/Letmeask/blob/main/src/assets/PreviewGif2.gif">
 
 
-
-<div align="center">
-  <img src="https://img.shields.io/github/license/ogabrielrodrigues/ignitelab"/>
-  <img src="https://img.shields.io/github/issues/ogabrielrodrigues/ignitelab">
-  <img src="https://img.shields.io/github/package-json/dependency-version/ogabrielrodrigues/ignitelab/react">
-</div>
-
 <br>
 
-## ✨ Tecnologias
+## ✨ Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 <div>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -28,21 +18,23 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O LetmeAsk é um sistema de ranqueamento de perguntas com páginas para administradores da sala e participantes desenvolvido durante a NextLevelWeek #6 da @Rocketseat
+A real-time Q&A ranking platform designed for online events, enabling participants to join virtual rooms, submit questions, and vote on others’ submissions to surface the most relevant and popular discussions.
 
 ## 🔖 Deploy
 
-Este site está disponível para testes via Firebase Hosting pelo link: <a href="https://letmeask-55d4a.web.app/">Testar</a>
+This site is available for testing via Firebase Hosting via the link: <a href="https://letmeask-55d4a.web.app/">Test</a>
 
 
-## 🚀 Como executar
+## 🚀 How to perform
 
-- Clone o repositório
-- Instale as dependências com `yarn`
-- Inicie o servidor com `yarn start`
+- Clone the repository
+- Install dependencies with `yarn`
+- Start the server with `yarn start`
 
-Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
+You can now access [`localhost:3000`](http://localhost:3000) from your browser.
 
-## 📄 Licença
+## 📄 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
+
+
